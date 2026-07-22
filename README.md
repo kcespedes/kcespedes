@@ -18,4 +18,4 @@ Work with me
 
 Open to select contract and overflow builds.
 
-→ karellcespedes.com  ·  Email me
+→ karellj.com  ·  Email me
