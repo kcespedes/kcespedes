@@ -1,6 +1,6 @@
 Karell J. Cespedes
 
-Full-stack software architect — I design and ship production SaaS, end to end.
+Full-stack software architect. I design and ship production SaaS, end to end.
 
 Based near Valencia, Spain (CET). I take products from architecture to launch on my own, then keep them running under real users. Most of my work lives in private product repositories, so this profile is intentionally quiet, the proof is in what's live.
 
