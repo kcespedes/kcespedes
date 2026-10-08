@@ -6,7 +6,7 @@ Based near Valencia, Spain (CET). I take products from architecture to launch on
 
 What I build
 
-ImmiDocu is an immigration document platform. A multilingual wizard guides applicants through the residency, digital-nomad, and student visa pathways, backed by a rules engine grounded in current immigration law and automated generation of 27 government PDF forms. Laravel 12 · Vue 3 · Inertia.js
+ImmiDocu is an immigration document platform. A multilingual wizard guides applicants through the residency, digital-nomad, and student visa pathways, backed by a rules engine grounded in current immigration law and automated generation of filled out government PDF forms ready to be signed and submitted for the visa application. Laravel 12 · Vue 3 · Inertia.js
 
 DroidBits is a crypto trading automation platform. Grid and DCA bots run across multiple exchanges with a backtesting and arbitrage engine, executing in real time over a WebSocket architecture. Laravel · Reverb · CCXT · WebSockets
 
